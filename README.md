@@ -6,9 +6,9 @@ Currently I am an L2/3 IT Specialist trying to break into more technical roles a
 
 ### These are my current goals:
 
-- [] Get familiar with Git and Github
+- [X] Get familiar with Git and Github
 
-- [] Get more familiar and comfortable using Linux and Linux commands
+- [X] Get more familiar and comfortable using Linux and Linux commands
 
 - [] Get more comfortable with scripting (Bash, Powershell, etc.) 
 - [] Learn Python 
